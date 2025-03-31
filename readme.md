@@ -78,8 +78,8 @@ With a diverse portfolio spanning web applications, data science implementations
 
 I'm always open to collaborating on innovative projects, discussing technical challenges, or exploring new opportunities. Feel free to reach out through any of the channels below:
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 📧 Email: [amine.bouchidar@gmail.com](mailto:amine.bouchidar@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/amine-bouichidar)
 - 🌐 [Portfolio](https://bouichidar-amine.vercel.app)
 
 ---
