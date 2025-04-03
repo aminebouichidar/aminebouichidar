@@ -86,6 +86,6 @@ I'm always open to collaborating on innovative projects, discussing technical ch
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aminebouichidar&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aminebouichidar?cardType=octocat&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminebouichidar&layout=compact&theme=radical)
